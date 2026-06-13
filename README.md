@@ -3,7 +3,7 @@
 A classic memory sequence game built with vanilla web technologies. Test and improve your memory by repeating the ever-increasing pattern of colors and sounds!
 
 ## 🔗 Live Demo
-Play the game live here: **[Simon Game Live Demo](https://github.io)**
+Play the game live here:  https://riskanahamed.github.io/Simon-Game/
 
 ---
 
